@@ -1,0 +1,6 @@
+pyrealsense2
+opencv-contrib-python
+numpy
+PyYAML
+ReportLab
+fpdf
